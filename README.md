@@ -15,6 +15,8 @@ This is an [errata report][1] for a [Project Gutenberg][2] EBook.
 [4]: https://www.pgdp.net/c/project.php?id=projectID56285c5770b33&detail_level=3
 [5]: https://www.google.com/books/edition/The_Scarecrow_of_Oz/lam1K-LQB8EC?hl=en&gbpv=1&dq=intitle:scarecrow+intitle:of+intitle:oz&printsec=frontcover
 
+Assigned ID `[errata #13810]`
+
 ### Corrections
 
 I submitted new files to PG along with these notes.
