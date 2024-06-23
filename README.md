@@ -17,6 +17,8 @@ This is an [errata report][1] for a [Project Gutenberg][2] EBook.
 
 ### Corrections
 
+I submitted new files to PG along with these notes.
+
 ```
 In L. Frank Baum's "The Scarecrow of Oz", EBook #51263, I found the following errors:
 
